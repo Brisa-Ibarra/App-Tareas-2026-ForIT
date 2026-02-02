@@ -4,6 +4,7 @@
   "description": "",
   "main": "servidor.js",
   "scripts": {
+    "star": "node servidor.js",
     "dev": "nodemon servidor.js"
   },
   "keywords": [],
