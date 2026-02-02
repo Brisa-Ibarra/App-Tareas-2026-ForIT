@@ -4,11 +4,11 @@ Una aplicación web completa para gestión de tareas desarrollada con React (Fro
 
 ## Características
 
-- ✅ Crear nuevas tareas con título y descripción
-- ✅ Listar todas las tareas existentes
-- ✅ Editar tareas existentes
-- ✅ Marcar tareas como completadas
-- ✅ Eliminar tareas
+-  Crear nuevas tareas con título y descripción
+-  Listar todas las tareas existentes
+-  Editar tareas existentes
+-  Marcar tareas como completadas
+-  Eliminar tareas
 
 ## 1. Vista Principal - Lista de Tareas
 ![Lista de Tareas](./screenshots/appTareas.png)
